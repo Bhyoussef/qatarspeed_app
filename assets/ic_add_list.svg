@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32.112" height="18.826" viewBox="0 0 32.112 18.826">
+  <g id="Group_181" data-name="Group 181" transform="translate(-2 -7.5)">
+    <path id="Path_182" data-name="Path 182" d="M9.065,9.5C5.163,9.5,2,12.953,2,17.212s3.163,7.712,7.065,7.712,7.065-3.453,7.065-7.712S12.966,9.5,9.065,9.5Zm3.211,9.114H10.349v2.1a1.347,1.347,0,0,1-1.284,1.4,1.347,1.347,0,0,1-1.284-1.4v-2.1H5.853a1.408,1.408,0,0,1,0-2.8H7.78v-2.1a1.347,1.347,0,0,1,1.284-1.4,1.347,1.347,0,0,1,1.284,1.4v2.1h1.927a1.408,1.408,0,0,1,0,2.8Z" transform="translate(0 0.402)"/>
+    <path id="Path_183" data-name="Path 183" d="M30.982,20.5H13" transform="translate(3.129 4.825)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path_184" data-name="Path 184" d="M30.414,16.5H15" transform="translate(3.698 3.217)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path_185" data-name="Path 185" d="M30.414,12.5H15" transform="translate(3.698 1.608)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path_186" data-name="Path 186" d="M30.982,8.5H13" transform="translate(3.129)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

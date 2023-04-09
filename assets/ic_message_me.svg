@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36.377" height="27.264" viewBox="0 0 36.377 27.264">
+  <defs>
+    <filter id="Glyph" x="0" y="0" width="36.377" height="27.264" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Glyph)">
+    <path id="Glyph-2" data-name="Glyph" d="M27.795,11H6.582A4.587,4.587,0,0,0,2,15.582v12.1a4.587,4.587,0,0,0,4.582,4.582H27.795a4.587,4.587,0,0,0,4.582-4.582v-12.1A4.587,4.587,0,0,0,27.795,11Zm2.3,19.406-9.928-8.49a4.538,4.538,0,0,1-5.954.01L4.466,30.547a3.229,3.229,0,0,1-.724-.714l9.7-8.566L3.929,13.2a3.2,3.2,0,0,1,.79-.658L14.9,21.176a3.528,3.528,0,0,0,4.577,0l10.181-8.632a3.2,3.2,0,0,1,.79.658l-9.5,8.05,9.822,8.394a3.436,3.436,0,0,1-.673.759Z" transform="translate(1 -10)"/>
+  </g>
+</svg>

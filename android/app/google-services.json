@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "375963138068",
+    "project_id": "speedoo-688c7",
+    "storage_bucket": "speedoo-688c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375963138068:android:0d5f595a429a3fbf704f01",
+        "android_client_info": {
+          "package_name": "com.speed.qatar.qatar_speed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375963138068-3kbbrjr9rt89r1dsuq88s59q5br3566q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.speed.qatar.qatar_speed",
+            "certificate_hash": "e1f02fc374404a5865f5bf3d703552d56277534d"
+          }
+        },
+        {
+          "client_id": "375963138068-acokqsrmcs9rc079mldaj7bqcn3ei2i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEkgTTH-Br_Bzol94ljRNwOa17Y3CmZz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375963138068-acokqsrmcs9rc079mldaj7bqcn3ei2i9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

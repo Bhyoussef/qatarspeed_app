@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.905" height="20.911" viewBox="0 0 24.905 20.911">
+  <g id="trolley" transform="translate(0.5 0.5)">
+    <path id="Path_25" data-name="Path 25" d="M19.006,18.934H10.052a2.894,2.894,0,0,1-2.786-2.061L4.24,6.617a.9.9,0,0,0-.873-.626H1A1,1,0,1,1,1,4H3.367A2.893,2.893,0,0,1,6.152,6.061l.566,1.921H21.945a1.963,1.963,0,0,1,1.576.791,1.881,1.881,0,0,1,.287,1.688l-2.054,6.519a2.889,2.889,0,0,1-2.748,1.952Zm2.94-8.96h.01Z" transform="translate(0 -4)" fill="#000" stroke="#444" stroke-width="1"/>
+    <path id="Path_26" data-name="Path 26" d="M10.991,23.982a1.991,1.991,0,1,1,1.991-1.991A1.993,1.993,0,0,1,10.991,23.982Zm0-1.992h0Z" transform="translate(-0.04 -4.071)" fill="#444" stroke="#444" stroke-width="1"/>
+    <path id="Path_27" data-name="Path 27" d="M17.991,23.982a1.991,1.991,0,1,1,1.991-1.991A1.993,1.993,0,0,1,17.991,23.982Zm0-1.992h0Z" transform="translate(-0.071 -4.071)" fill="#444" stroke="#444" stroke-width="1"/>
+  </g>
+</svg>
